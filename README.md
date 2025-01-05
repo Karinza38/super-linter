@@ -1,4 +1,4 @@
-# Super-Linter
+ # Super-Linter
 
 Super-linter is a ready-to-run collection of linters and code analyzers, to help
 validate and fix your source code.
